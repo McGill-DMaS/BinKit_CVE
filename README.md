@@ -1,6 +1,6 @@
 # BinKit Function-CVE Mapping
 
-This repository contains mappings between BinKit dataset functions and their associated CVEs. Mappings are extracted using binary-to-source debug information.
+This repository contains mappings between [BinKit 2.0 dataset](https://github.com/SoftSec-KAIST/BinKit) functions and their associated CVEs. Mappings are extracted using binary-to-source debug information.
 
 ## Current Coverage
 
